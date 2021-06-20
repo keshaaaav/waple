@@ -26,4 +26,4 @@ GitHub's an awesome site that's really well-suited for bug tracking. It'll keep 
 
 ### Can I participate in discussions here?
 
-Of course! But please try to stay on topic to the specific bug report, so contribute if you feel you can add extra information. If you just want to say "me too", use the + button with the smiley on a comment to indicate your reaction rather than creating another comment. This is unfortunately also not the place for off-topic conversation or memes. Also please try to be nice here within the discussions. :)
+Of course! But please try to stay on topic to the specific bug report, so contribute if you feel you can add extra information. If you just want to say "me too", use the + button with the smiley on a comment to indicate your reaction rather than creating another comment. This is unfortunately also not the place for off-topic conversation or memes. Also please try to be nice here within the discussions :)
