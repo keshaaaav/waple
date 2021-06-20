@@ -1,4 +1,4 @@
-![logoSmol](https://user-images.githubusercontent.com/83570000/122682649-675b0b00-d218-11eb-8ebc-aa28181d7363.png)
+![output-onlinepngtools-6](https://user-images.githubusercontent.com/83570000/122682701-ac7f3d00-d218-11eb-93dd-de2230e4c22f.png)
 
 # Waple Bug Tracker 🐛
 
