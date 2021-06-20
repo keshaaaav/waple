@@ -1,3 +1,5 @@
+![logoSmol](https://user-images.githubusercontent.com/83570000/122682649-675b0b00-d218-11eb-8ebc-aa28181d7363.png)
+
 # Waple Bug Tracker 🐛
 
 Hey! Here's a helpful little bug tracker for known issues with Waple Chat — Messenger for WhatsApp on iPad, so if you have a bug to report you can check the “Issues” tab up above to see if it's already been reported. I'm just one guy working on Waple so I can't promise I'll be able to fix the bug in a report instantly, but I do really want to know about the bugs so I can fix them as soon as I can! 
