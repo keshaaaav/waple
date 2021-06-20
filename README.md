@@ -1,5 +1,5 @@
 <p align="center">
-![output-onlinepngtools-6](https://user-images.githubusercontent.com/83570000/122682701-ac7f3d00-d218-11eb-93dd-de2230e4c22f.png)
+    <img src="https://user-images.githubusercontent.com/83570000/122682701-ac7f3d00-d218-11eb-93dd-de2230e4c22f.png"/>
 <p>
   
 # Waple Bug Tracker 🐛
